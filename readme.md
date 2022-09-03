@@ -1,11 +1,8 @@
 # purpose
 Display upcomming events and outstanding household tasks in prominent location.   
 ## secondary goals 
-The primary purpose of this project to check out Azure DevOps and Github workflows.  
-
-This is also meant to serve as an opportunity to learn how to develop and deploy applications from Azure Kubernetes Service (AKS).
-
-This project is also an opportunity to learn more about software egineering principals and best practices. 
+this project also serves as a way to check out Azure DevOps and Github workflows.  
+it is also meant to serve as an opportunity to learn how to develop and deploy applications from Azure Kubernetes Service (AKS).
 
 # how it works 
 ## currently
